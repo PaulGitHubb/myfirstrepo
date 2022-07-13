@@ -1,0 +1,32 @@
+div {
+    color: rgba(154, 12, 12, 0.818)
+}
+
+#div1 {
+    color: rgb(0, 0, 255);
+}
+
+#div2 {
+    color: rgb(255, 0, 38)
+}
+#UNORDER-LIST{
+    color: rgb(25, 25, 160);
+    font-size: 2rem;
+}
+#ORDER-LIST{
+    color: #32a70b;
+}
+
+.large-font{
+    font-size: 4rem;
+}
+.large-font deep-backgroud{
+    background-color: #2c7e10;font-size:4rem
+}
+.Version{
+background-color: #2c7e10;
+color: aliceblue;
+padding: 2px 10px;
+border-radius:10px;
+
+}
